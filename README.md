@@ -17,3 +17,7 @@ wget https://raw.githubusercontent.com/Gensvebw/xfce4installscript/main/installx
 chmod +x installxfce4fortermux.sh
 sh installxfce4fortermux.sh
 ```
+
+```
+pkg install wget #If you didn't install wget
+```
