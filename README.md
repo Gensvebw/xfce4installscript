@@ -19,5 +19,5 @@ sh installxfce4fortermux.sh
 ```
 
 ```
-pkg install wget #If you didn't install wget
+pkg install wget # If you didn't install wget
 ```
